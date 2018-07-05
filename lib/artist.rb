@@ -1,6 +1,8 @@
 class Artists
 
-attr_accessor :artist
+attr_accessor :name
+
+
 
 
 end
