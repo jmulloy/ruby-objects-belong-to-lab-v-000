@@ -1,5 +1,7 @@
 class Artists
 
-attr_accessor :name, :artist
+  def initialize(artist)
+    @aritst = artist
+  end
 
 end
