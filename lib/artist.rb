@@ -1,7 +1,7 @@
 class Artists
 
-  def initialize(artist)
-    @aritst = artist
+  def initialize(Artist)
+    @Aritst = Artist
   end
 
 end
